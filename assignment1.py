@@ -1,3 +1,5 @@
+# Name:- Dheeraj Sharma  
+# SID:- 21107025
 class BSTNode:
     def __init__(self,data=None):
         self.data=data
@@ -63,7 +65,7 @@ arr=arrayDelete(arr,delValue)
 bstNode=deleteNode(bstNode,delValue)
  #Space Complexity of deleting via Binary Search TREE:- O(log N)
  # Space Complexity of Delteing via array:- O(N)
- # So deleting via using Binary search Tree is better than via Arrays with respect to space complexity
+ # So deleting values via using Binary search Tree is better than via Arrays with respect to space complexity
 
 
 
